@@ -3,3 +3,4 @@ composer.phar
 /examples/active_record/vendor
 /examples/codeigniter/framework_files
 /.idea
+*.iml
